@@ -262,7 +262,9 @@
     function stepBy(dir) {
       measure();
       cancelAnimationFrame(rafId);
-      velocity = dir * 14;
+      /* dir=1 es "siguiente": la pista debe desplazarse a la IZQUIERDA
+         (offset negativo), igual que cuando arrastras hacia la derecha */
+      velocity = -dir * 14;
       glide();
     }
 
