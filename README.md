@@ -16,8 +16,8 @@ Ambas páginas comparten la misma identidad: contrastes de morado y naranja satu
 
 | Página | Enlace |
 | --- | --- |
-| Portafolio (CV) | https://victoriamorenosl.github.io/proyecto-1/ |
-| Sistema de diseño | https://victoriamorenosl.github.io/proyecto-1/design.html |
+| Portafolio (CV) | https://victoriamorenosl.github.io/proyecto-1/?v=2 |
+| Sistema de diseño | https://victoriamorenosl.github.io/proyecto-1/design.html?v=2 |
 
 ## Documentación
 
